@@ -1,0 +1,7 @@
+{
+  "name": "Bentsy",
+  "description": "An AI-powered infinite canvas interface to generate mood boards, 2D room plans, product suggestions, invoices, and style looks. A versatile tool for creatives and planners.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
